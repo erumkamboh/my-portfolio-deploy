@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <div className="h-[88vh] bg-[url('/images/banner.jpg')] bg-cover bg-center">
       <Particle/>
-      <div className="absolute w-[80%] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-[100%] items-center">
+      <div className="absolute right-0 left-0 w-[80%] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-[100%] items-center">
         <div>
         <h1 className="text-[35px] md:text-[50px] text-white font-bold">
           HI, I'M <span className="text-yellow-400">Erum!</span>
